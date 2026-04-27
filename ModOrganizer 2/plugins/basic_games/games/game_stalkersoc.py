@@ -2,7 +2,7 @@ from ..basic_game import BasicGame
 
 class StalkerSoCGame(BasicGame):
     Name = "[Steam/WW/RU] S.T.A.L.K.E.R. Support Plugin"
-    Author = "m619s"
+    Author = "DIGIT4L_RA7EN"
     Version = "0.3.1"
     Description = "Adds basic support for game S.T.A.L.K.E.R.: Shadow of Chernobyl."
 
