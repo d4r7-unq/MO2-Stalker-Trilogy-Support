@@ -7,7 +7,7 @@ from ..basic_game import BasicGame
 
 class StalkerSoC_GogGame(BasicGame):
     Name = "[GOG] S.T.A.L.K.E.R. Support Plugin"
-    Author = "m619s"
+    Author = "DIGIT4L_RA7EN"
     Version = "0.4.1"
     Description = "Adds basic support for GOG version of game S.T.A.L.K.E.R.: Shadow of Chernobyl."
 
